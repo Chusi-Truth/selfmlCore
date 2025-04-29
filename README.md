@@ -9,7 +9,17 @@ pip install -r requirements.txt
 
 ### bookList
 
+**theory**
+
+**practice**
+
+**project**
+
+**funny toy**
+
 ### Bugs
 
-vllm psrt is not available now
+vllm part is not available now
+
+transformer part is not available now
 
