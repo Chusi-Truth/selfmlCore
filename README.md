@@ -11,15 +11,23 @@ pip install -r requirements.txt
 
 **theory**
 
+- decision tree
+- AdaBoost
+
 **practice**
+
+- basic operation
 
 **project**
 
 **funny toy**
 
+- transformer
+- vllm
+
 ### Bugs
 
-vllm part is not available now
+- vllm part is not available now
 
-transformer part is not available now
+- transformer part is not available now
 
