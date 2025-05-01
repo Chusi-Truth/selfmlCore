@@ -11,19 +11,22 @@ pip install -r requirements.txt
 
 **theory**
 
-- decision tree
-- AdaBoost
+- decision tree(Done)
+- AdaBoost(Doing)
+- PCA(TODO)
 
 **practice**
 
-- basic operation
+- basic operation(Doing)
 
 **project**
 
+- Gluttonous Snake(Doing)
+
 **funny toy**
 
-- transformer
-- vllm
+- transformer(Doing)
+- vllm(Doing)
 
 ### Bugs
 
