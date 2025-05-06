@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 **project**
 
-- Gluttonous Snake(Doing)
+- Gluttonous Snake(Simple version)
 
 **funny toy**
 
